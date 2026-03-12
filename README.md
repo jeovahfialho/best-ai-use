@@ -8,10 +8,10 @@ Repositorio central de artigos, boas praticas e guias para desenvolvimento assis
 
 ```
 best-ai-use/
-  claude/          # Boas praticas com Claude (Code, API, prompting)
+  claude/          # Boas praticas com Claude (Code, API, prompting, Skills)
   codex/           # Boas praticas com OpenAI Codex (CLI, API)
   gemini/          # Boas praticas com Google Gemini (CLI, API, IDEs)
-  tools/           # Ferramentas complementares (Context Mesh, Context7, Promptfoo)
+  tools/           # Ferramentas complementares (Context Mesh, Context7, Promptfoo, Ouroboros)
 ```
 
 ## Ferramentas de IA
@@ -19,6 +19,7 @@ best-ai-use/
 | Ferramenta | Guia | Foco |
 |-----------|------|------|
 | [Claude](claude/README.md) | Claude Code, API, prompting | Anthropic |
+| [Claude Skills](claude/building-skills.md) | Construir Skills para o Claude | Anthropic |
 | [Codex](codex/README.md) | Codex CLI, API, workflows | OpenAI |
 | [Gemini](gemini/README.md) | Gemini CLI, API, IDEs | Google |
 
@@ -29,6 +30,7 @@ best-ai-use/
 | [Context Mesh](tools/context-mesh.md) | Framework de contexto AI-First | Processo |
 | [Context7](tools/context7.md) | Documentacao atualizada para LLMs via MCP | Contexto |
 | [Promptfoo](tools/promptfoo.md) | Avaliacao e teste de prompts/modelos | Qualidade |
+| [Ouroboros](tools/ouroboros.md) | Desenvolvimento por especificacao (plugin Claude Code) | Processo |
 
 ## Como Usar em Outros Projetos
 
